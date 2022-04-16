@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f99742d2-1d0d-4af1-80b6-f993d33f3689" name="scriptman.de" url="http://aad-helper.scriptman.de">
+        <fileTransfer rootFolder="/scriptman/aad-helper" accessType="SFTP" host="ftp.aulenbach.info" port="22" sshConfigId="ee7b63fe-8c6d-42ce-8d17-0c917d7e18c2" sshConfig="u39021593@ftp.aulenbach.info:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

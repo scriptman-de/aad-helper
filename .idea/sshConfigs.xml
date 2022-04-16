@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="ftp.aulenbach.info" id="ee7b63fe-8c6d-42ce-8d17-0c917d7e18c2" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="u39021593" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
